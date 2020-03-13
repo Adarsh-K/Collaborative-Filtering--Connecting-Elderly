@@ -2,6 +2,8 @@
 
 ### Used Recommender System based on "Collaborative Filtering" to recommend movies to User. Use those predictions to match people with similar movie taste all with a novel GUI. The code is in Matlab and Python.
 
+#### This is an APP specially for elderly people. It's meant to overcome their loneliness by getting in touch with other elderlies living nearby with similar movie taste. And allows them to invite other elderlies around to watch a movie which all of them would like.
+
 **Note:** All the files are well documented and commented wherever I felt necessary
 
 Run the file named gui.py which does the following:
