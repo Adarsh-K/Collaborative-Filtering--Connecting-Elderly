@@ -1,4 +1,6 @@
-# Used Recommender System based on "Collaborative Filtering" to recommend movies to User. Use those predictions to match people with similar movie taste all with a novel GUI. The code is in Matlab and Python.
+# Match with Movies APP
+
+## Used Recommender System based on "Collaborative Filtering" to recommend movies to User. Use those predictions to match people with similar movie taste all with a novel GUI. The code is in Matlab and Python.
 Note: All the files are well documented and commented wherever I felt necessary
 
 Run the file named gui.py which does the following:
