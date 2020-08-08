@@ -2,7 +2,7 @@
 
 ### Used Recommender System based on an AI algorithm "Collaborative Filtering" to recommend movies to User. Use those predictions to match people with similar movie taste all with a novel GUI. The code is in Matlab and Python. See demo video [here](https://drive.google.com/file/d/1pLGgUXz391QgXHuL9LnJlWgVuM-YUInb/view?usp=sharing)
 
-#### This is an AI APP specially for elderly people. It's meant to overcome their loneliness by getting in touch with other elderlies living nearby with similar movie taste. And allows them to invite other elderlies around to watch a movie which all of them would like.
+#### This is an AI app specially for elderly people. It's meant to overcome their loneliness by getting in touch with other elderlies living nearby with similar movie taste. And allows them to invite other elderlies around to watch a movie which all of them would like.
 
 **Note:** All the files are well documented and commented wherever I felt necessary
 
